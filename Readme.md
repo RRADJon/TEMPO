@@ -30,6 +30,5 @@ $C_{tissue}$ and MIE affinity are fed to an **AOP/Hazard Integration Module**. T
 
 ##  Getting Started
 To use the tool:
-1.  Open the `Integrated Boltz_PBPK_AOP_Simulation.ipynb` notebook.
-2.  Follow the link to launch in **Google Colab**.
-3.  You will be prompted to obtain an **NVIDIA API Key** (available for free) to run cloud-based Boltz-2 predictions.
+1.  Follow the [link](https://colab.research.google.com/github/RRADJon/TEMPO/blob/main/Integrated_Boltz_PBPK_AOP_Simulation.ipynb) to launch Integrated_Boltz_PBPK_AOP_Simulation notebook in **Google Colab**.
+2.  You will be prompted to obtain an **NVIDIA API Key** (available for free) to run cloud-based Boltz-2 predictions.
